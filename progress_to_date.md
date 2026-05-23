@@ -775,3 +775,464 @@ For future lessons, consider teaching:
 ---
 
 *This file should be updated as new grammar and vocabulary are introduced in lessons.*
+
+
+---
+
+# Additional Progress Since Previous Version
+
+## Aspect and Verb-Class Interpretation
+
+### 継続動詞 vs 瞬間動詞
+
+- **継続動詞** - durative/action verbs
+  - 食べる
+  - 話す
+  - 歩く
+
+- **瞬間動詞** - instantaneous/change-of-state verbs
+  - 死ぬ
+  - 座る
+  - 分かる
+  - 結婚する
+
+### Important Aspect Insight
+
+- 〜ている does NOT simply mean English “-ing”
+- Interpretation depends on verb type and アスペクト
+
+Examples:
+
+- 食べている = is eating (ongoing action)
+- 死んでいる = is dead (resulting state)
+- 分かっている = it is clear / understood
+- 座っている = is sitting
+
+---
+
+## 分かる as State Change
+
+### Structural Interpretation
+
+- 分かる is structurally closer to:
+  - “become clear”
+  - “come into clarity”
+
+### State Forms
+
+- 分かった
+  - understanding occurred
+  - “I got it”
+
+- 分かっている
+  - state of clarity exists
+  - “I understand”
+
+### Important Distinction
+
+Correct replies to:
+- 分かりましたか？
+
+Correct:
+- はい、分かりました。
+- はい、分かっています。
+
+Incorrect:
+- はい、分かります。
+
+Reason:
+- 分かります is non-past/general rather than completed or resulting-state aspect.
+
+---
+
+## Additional State Transition Structures
+
+### 〜なくなる
+
+Negative + なる
+
+Meaning:
+- stop doing
+- no longer be in state
+
+Examples:
+
+- 食べなくなった
+- 信じなくなった
+- 静かにしなくなった
+
+Structural interpretation:
+- transition into absence of previous state
+
+---
+
+## Expanded する Structural System
+
+### Core Insight
+
+する is one abstract verb interpreted through constructions.
+
+Core semantic idea:
+- manifest
+- realise
+- bring about
+
+---
+
+### ① 行為のする
+
+Structure:
+- N を する
+
+Meaning:
+- perform action
+
+Examples:
+- 勉強をする
+- 運動をする
+
+---
+
+### ② 状態操作のする
+
+Structure:
+- N に する
+
+Meaning:
+- set state
+- choose
+- make into
+
+Examples:
+- 静かにする
+- これにする
+
+---
+
+### ③ 現象のする
+
+Structure:
+- N が する
+
+Meaning:
+- phenomenon occurs
+
+Examples:
+- 音がする
+- においがする
+- 感じがする
+- 気がする
+
+---
+
+### ④ 状態描写のする
+
+Structure:
+- N をしている
+
+Meaning:
+- be in state characterised by X
+
+Examples:
+- 変な顔をしている
+- 困った顔をしている
+- 大きな目をしている
+
+Important:
+- not necessarily action
+- not simple possession
+- state manifestation
+
+---
+
+## Static vs Maintained State
+
+### 静かにしている
+
+Default meaning:
+- be quiet
+- be in quiet state
+
+Not fundamentally:
+- “be making it quiet”
+
+Maintenance nuance may arise contextually.
+
+---
+
+## Explicit Maintenance Structures
+
+### 〜ておく
+
+- do in advance
+- leave state maintained
+
+Examples:
+- 閉めておく
+- 静かにしておく
+
+---
+
+### 〜たまま
+
+- keep state unchanged
+
+Examples:
+- 閉めたまま
+- 静かにしたまま
+
+---
+
+### 〜続ける
+
+- continue action/state
+
+Examples:
+- 信じ続ける
+- 静かにし続ける
+
+---
+
+## Expanded よう Structural System
+
+### Core Idea
+
+よう derives historically from:
+- 様
+- manner / appearance / state-like pattern
+
+Meaning depends on construction.
+
+---
+
+### 〜ようになる
+
+Meaning:
+- come to
+- transition into state/habit/ability
+
+Examples:
+- 分かるようになった
+- 信じるようになった
+- 運動するようになった
+
+---
+
+### 〜ようにする
+
+Meaning:
+- make effort to
+- intentionally maintain habit/state
+
+Examples:
+- 静かにするようにした
+- 毎日運動するようにしている
+
+---
+
+### 〜ように
+
+Meaning:
+- so that
+- in order that
+
+Examples:
+- 分かるように話す
+- 忘れないように書く
+
+---
+
+### 〜ようだ
+
+Meaning:
+- seems like
+- resembles
+
+Examples:
+- 神のようだ
+- 鳥のように飛ぶ
+
+---
+
+## 信じる Nuance
+
+信じる may mean:
+- believe
+- trust
+- have confidence in
+
+Context determines nuance.
+
+Examples:
+
+- 彼を信じる
+  - trust him
+
+- そのゲームを信じる
+  - trust the game
+  - have confidence in it
+
+---
+
+## まったく Polarity Sensitivity
+
+### With Negatives
+
+Meaning:
+- not at all
+
+Examples:
+- まったく分からない
+- まったく悲しい感じがしない
+
+---
+
+### With Positives
+
+Meaning:
+- really
+- absolutely
+- emotionally emphatic
+
+Examples:
+- まったく困った人だ
+- まったくその通りだ
+
+---
+
+## Conditional Interpretation
+
+### 〜と
+
+Important insight:
+
+- often interpreted as natural consequence
+- lower uncertainty than English “if”
+
+Examples:
+
+- ドアを開けると、音がした。
+- 入ると、先生がいた。
+
+Often closer to:
+- “when”
+than:
+- “if”
+
+---
+
+## Adverbial ナ形容詞 Usage
+
+### ナ形容詞 + に + 動詞
+
+Meaning:
+- adverbial manner
+
+Examples:
+- 静かに話す
+- 静かに歩く
+
+Important distinction:
+
+- 静かにする
+  - make quiet
+
+vs
+
+- 静かに話す
+  - speak quietly
+
+---
+
+# Additional Vocabulary Learned
+
+## Grammar / Linguistic Terms
+
+- 継続動詞
+- 瞬間動詞
+- 状態変化動詞
+- アスペクト
+- 状態描写
+- 状態操作
+- 現象
+- 行為
+- 副詞的用法
+
+---
+
+## Additional Vocabulary
+
+### Nouns
+
+- 感じ
+- 気
+- 顔
+- 目
+- 値段
+- キャラクター
+- バグ
+- 学生
+- 神
+- 点々
+- ドクテン
+- 半濁点
+- 丸
+
+### Verbs
+
+- 信じる
+- 笑う
+- 死ぬ
+- 困る
+
+### Adjectives
+
+- 悲しい
+- 変
+- 困った
+
+### Adverbs
+
+- まったく
+
+---
+
+# Structural Insights Learned
+
+## Japanese Often Expresses State Transitions
+
+Examples:
+
+- 静かにしなくなった
+- 信じるようになった
+
+rather than directly expressing opposite states.
+
+---
+
+## Meaning Emerges from Construction
+
+Especially with:
+- する
+- よう
+- ている
+
+Meaning is construction-driven rather than isolated-word-driven.
+
+---
+
+## Japanese State Orientation
+
+Japanese frequently encodes:
+- resulting state
+- maintained state
+- transition into state
+
+rather than direct action descriptions.
+
+Examples:
+
+- 死んでいる
+- 分かっている
+- 結婚している
+- 静かにしている
