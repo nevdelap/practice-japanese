@@ -165,7 +165,8 @@ When asked for practice reading:
 - default to 20 sentences unless another number is specified
 - give only:
   - Japanese sentence
-  - parallel English translation
+  - parallel English translation reflecting Japanese structure and gloss
+  - If that translation is unnatural, a natural translation in brackets
 
 Do not:
 - add introductions
@@ -203,7 +204,7 @@ Do not:
 
 Give:
 - Japanese
-- parallel English translation
+- parallel English translation in natural English
 
 Avoid:
 - excessive difficult vocabulary
