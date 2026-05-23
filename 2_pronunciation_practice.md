@@ -33,7 +33,7 @@ Format example:
 
 日本語。  
 にほんご。  
-English translation.
+Japanese.
 
 ---
 
