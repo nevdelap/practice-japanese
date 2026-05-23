@@ -1,0 +1,1 @@
+Create instructions in downloadable markdown covering all of the instructions you are following in this conversation, only this conversation, since the beginning and including everything that added to the instructions since. It must be suitable for starting a new conversation in chatgpt to continue teaching. It must however not include the content taught.
