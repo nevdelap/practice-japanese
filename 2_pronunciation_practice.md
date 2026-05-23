@@ -32,7 +32,7 @@ Every tongue twister must include:
 Format example:
 
 日本語。  
-ひらがな。  
+にほんご。
 English translation.
 
 ---
